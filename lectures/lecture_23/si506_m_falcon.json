@@ -1,0 +1,61 @@
+{
+  "url": "https://swapi.py4e.com/api/starships/10/",
+  "name": "Millennium Falcon",
+  "starship_class": "Light freighter",
+  "model": "YT-1300 light freighter",
+  "manufacturer": "Corellian Engineering Corporation",
+  "dimensions": {
+    "unit_of_measure": "meters",
+    "length": 34.37,
+    "width": 25.61,
+    "height": 8.27
+  },
+  "max_atmosphering_speed": "1050",
+  "hyperdrive_rating": "0.5",
+  "MGLT": "75",
+  "armament": [
+    {
+      "type": "Corellian Engineering Corporation AG-2G quad laser cannon",
+      "total": 2
+    },
+    {
+      "type": "Arakyd ST2 concussion missile tube",
+      "total": 2,
+      "missles_carried": 8
+    },
+    {
+      "type": "BlasTech Ax-108 Ground Buzzer surface-defense blaster cannon",
+      "total": 1
+    }
+  ],
+  "crew_members": {
+    "pilot": {
+      "url": "https://swapi.py4e.com/api/people/14/",
+      "name": "Han Solo",
+      "birth_year": "29BBY",
+      "homeworld": {
+        "url": "https://swapi.py4e.com/api/planets/22/",
+        "name": "Corellia",
+        "gravity": "1 standard",
+        "climate": "temperate",
+        "terrain": "plains, urban, hills, forests",
+        "population": "3000000000"
+      }
+    },
+    "co_pilot": {
+      "url": "https://swapi.py4e.com/api/people/13/",
+      "name": "Chewbacca",
+      "birth_year": "200BBY",
+      "homeworld": {
+        "url": "https://swapi.py4e.com/api/planets/14/",
+        "name": "Kashyyyk",
+        "gravity": "1 standard",
+        "climate": "tropical",
+        "terrain": "jungle, forests, lakes, rivers",
+        "population": "45000000"
+      }
+    }
+  },
+  "cargo_capacity": "100000",
+  "consumables": "2 months"
+}

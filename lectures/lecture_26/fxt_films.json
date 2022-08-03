@@ -1,0 +1,269 @@
+[
+  {
+    "url": "https://swapi.py4e.com/api/films/4/",
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "episode_roman_num": "I",
+    "release_date": "1999-05-19",
+    "planets": [
+      {
+        "url": "https://swapi.py4e.com/api/planets/1/",
+        "name": "Tatooine",
+        "diameter": 10465,
+        "population": 200000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/8/",
+        "name": "Naboo",
+        "diameter": 12120,
+        "population": 4500000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/9/",
+        "name": "Coruscant",
+        "diameter": 12240,
+        "population": 1000000000000
+      }
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/films/5/",
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "episode_roman_num": "II",
+    "release_date": "2002-05-16",
+    "planets": [
+      {
+        "url": "https://swapi.py4e.com/api/planets/1/",
+        "name": "Tatooine",
+        "diameter": 10465,
+        "population": 200000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/8/",
+        "name": "Naboo",
+        "diameter": 12120,
+        "population": 4500000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/9/",
+        "name": "Coruscant",
+        "diameter": 12240,
+        "population": 1000000000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/10/",
+        "name": "Kamino",
+        "diameter": 19720,
+        "population": 1000000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/11/",
+        "name": "Geonosis",
+        "diameter": 11370,
+        "population": 100000000000
+      }
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/films/6/",
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "episode_roman_num": "III",
+    "release_date": "2005-05-19",
+    "planets": [
+      {
+        "url": "https://swapi.py4e.com/api/planets/1/",
+        "name": "Tatooine",
+        "diameter": 10465,
+        "population": 200000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/2/",
+        "name": "Alderaan",
+        "diameter": 12500,
+        "population": 2000000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/5/",
+        "name": "Dagobah",
+        "diameter": 8900,
+        "population": null
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/8/",
+        "name": "Naboo",
+        "diameter": 12120,
+        "population": 4500000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/9/",
+        "name": "Coruscant",
+        "diameter": 12240,
+        "population": 1000000000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/12/",
+        "name": "Utapau",
+        "diameter": 12900,
+        "population": 95000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/13/",
+        "name": "Mustafar",
+        "diameter": 4200,
+        "population": 20000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/14/",
+        "name": "Kashyyyk",
+        "diameter": 12765,
+        "population": 45000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/15/",
+        "name": "Polis Massa",
+        "diameter": 0,
+        "population": 1000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/16/",
+        "name": "Mygeeto",
+        "diameter": 10088,
+        "population": 19000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/17/",
+        "name": "Felucia",
+        "diameter": 9100,
+        "population": 8500000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/18/",
+        "name": "Cato Neimoidia",
+        "diameter": 0,
+        "population": 10000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/19/",
+        "name": "Saleucami",
+        "diameter": 14920,
+        "population": 1400000000
+      }
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/films/1/",
+    "title": "A New Hope",
+    "episode_id": 4,
+    "episode_roman_num": "IV",
+    "release_date": "1977-05-25",
+    "planets": [
+      {
+        "url": "https://swapi.py4e.com/api/planets/1/",
+        "name": "Tatooine",
+        "diameter": 10465,
+        "population": 200000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/2/",
+        "name": "Alderaan",
+        "diameter": 12500,
+        "population": 2000000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/3/",
+        "name": "Yavin IV",
+        "diameter": 10200,
+        "population": 1000
+      }
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/films/2/",
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "episode_roman_num": "V",
+    "release_date": "1980-05-17",
+    "planets": [
+      {
+        "url": "https://swapi.py4e.com/api/planets/4/",
+        "name": "Hoth",
+        "diameter": 7200,
+        "population": null
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/5/",
+        "name": "Dagobah",
+        "diameter": 8900,
+        "population": null
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/6/",
+        "name": "Bespin",
+        "diameter": 118000,
+        "population": 6000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/27/",
+        "name": "Ord Mantell",
+        "diameter": 14050,
+        "population": 4000000000
+      }
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/films/3/",
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "episode_roman_num": "VI",
+    "release_date": "1983-05-25",
+    "planets": [
+      {
+        "url": "https://swapi.py4e.com/api/planets/1/",
+        "name": "Tatooine",
+        "diameter": 10465,
+        "population": 200000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/5/",
+        "name": "Dagobah",
+        "diameter": 8900,
+        "population": null
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/7/",
+        "name": "Endor",
+        "diameter": 4900,
+        "population": 30000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/8/",
+        "name": "Naboo",
+        "diameter": 12120,
+        "population": 4500000000
+      },
+      {
+        "url": "https://swapi.py4e.com/api/planets/9/",
+        "name": "Coruscant",
+        "diameter": 12240,
+        "population": 1000000000000
+      }
+    ]
+  },
+  {
+    "url": "https://swapi.py4e.com/api/films/7/",
+    "title": "The Force Awakens",
+    "episode_id": 7,
+    "episode_roman_num": "VII",
+    "release_date": "2015-12-11",
+    "planets": [
+      {
+        "url": "https://swapi.py4e.com/api/planets/61/",
+        "name": "Jakku",
+        "diameter": null,
+        "population": null
+      }
+    ]
+  }
+]

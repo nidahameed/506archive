@@ -1,0 +1,23 @@
+{
+    "name": "Millennium Falcon",
+    "dimensions": {
+      "unit_of_measure": "meters",
+      "length": 34.37,
+      "width": 25.61,
+      "height": 8.27
+    },
+    "armament": [{
+        "type": "Corellian Engineering Corporation AG-2G quad laser cannon",
+        "total": 2
+      },
+      {
+        "type": "Arakyd ST2 concussion missile tube",
+        "total": 2,
+        "missles_carried": 8
+      },
+      {
+        "type": "BlasTech Ax-108 Ground Buzzer surface-defense blaster cannon",
+        "total": 1
+      }
+    ]
+  }
